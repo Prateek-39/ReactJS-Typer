@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Prateek-39/ReactJS-Typer/static/css/main.2ec34733.css",
-    "main.js": "/Prateek-39/ReactJS-Typer/static/js/main.450cb1cf.js",
-    "static/js/498.38e94526.chunk.js": "/Prateek-39/ReactJS-Typer/static/js/498.38e94526.chunk.js",
-    "static/js/703.37d968c4.chunk.js": "/Prateek-39/ReactJS-Typer/static/js/703.37d968c4.chunk.js",
-    "static/js/210.3b2c801a.chunk.js": "/Prateek-39/ReactJS-Typer/static/js/210.3b2c801a.chunk.js",
-    "index.html": "/Prateek-39/ReactJS-Typer/index.html",
-    "main.2ec34733.css.map": "/Prateek-39/ReactJS-Typer/static/css/main.2ec34733.css.map",
-    "main.450cb1cf.js.map": "/Prateek-39/ReactJS-Typer/static/js/main.450cb1cf.js.map",
-    "498.38e94526.chunk.js.map": "/Prateek-39/ReactJS-Typer/static/js/498.38e94526.chunk.js.map",
-    "703.37d968c4.chunk.js.map": "/Prateek-39/ReactJS-Typer/static/js/703.37d968c4.chunk.js.map",
-    "210.3b2c801a.chunk.js.map": "/Prateek-39/ReactJS-Typer/static/js/210.3b2c801a.chunk.js.map"
+    "main.css": "/ReactJS-Typer/static/css/main.2ec34733.css",
+    "main.js": "/ReactJS-Typer/static/js/main.1a38c933.js",
+    "static/js/498.38e94526.chunk.js": "/ReactJS-Typer/static/js/498.38e94526.chunk.js",
+    "static/js/703.37d968c4.chunk.js": "/ReactJS-Typer/static/js/703.37d968c4.chunk.js",
+    "static/js/210.3b2c801a.chunk.js": "/ReactJS-Typer/static/js/210.3b2c801a.chunk.js",
+    "index.html": "/ReactJS-Typer/index.html",
+    "main.2ec34733.css.map": "/ReactJS-Typer/static/css/main.2ec34733.css.map",
+    "main.1a38c933.js.map": "/ReactJS-Typer/static/js/main.1a38c933.js.map",
+    "498.38e94526.chunk.js.map": "/ReactJS-Typer/static/js/498.38e94526.chunk.js.map",
+    "703.37d968c4.chunk.js.map": "/ReactJS-Typer/static/js/703.37d968c4.chunk.js.map",
+    "210.3b2c801a.chunk.js.map": "/ReactJS-Typer/static/js/210.3b2c801a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec34733.css",
-    "static/js/main.450cb1cf.js"
+    "static/js/main.1a38c933.js"
   ]
 }
